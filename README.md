@@ -86,6 +86,9 @@ Asia vs Europe migration comparison by total population, growth rate, working-ag
 - **Power Query** — data transformation and modelling
 - **Bing Maps** — geographic distribution visualisation
 
+## Author
+Prepared by: Gia Bao Hoang
+
 ---
 
 *Data sourced from the Australian Bureau of Statistics (ABS). All analysis is conducted for research and educational purposes.*
