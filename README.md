@@ -1,13 +1,13 @@
 # 🇦🇺 Australia's Demographic Shift 1996–2016
 ### Market Insights Report | Power BI Dashboard Project
 
-> A data analytics project exploring how Australia's population composition changed over two decades — from migration origin and age structure to regional distribution and workforce implications.
+> A data analytics project exploring how Australia's population composition changed over two decades from migration origin and age structure to regional distribution and workforce implications.
 
 ---
 
 ## 🔎 Overview
 
-Australia's demographic landscape underwent a fundamental transformation between 1996 and 2016, driven by sustained immigration — particularly from Asia. This project uses ABS Census data and interactive Power BI dashboards to surface the trends, patterns and strategic implications of that shift.
+Australia's demographic landscape underwent a fundamental transformation between 1996 and 2016, driven by sustained immigration, particularly from Asia. This project uses ABS Census data and interactive Power BI dashboards to surface the trends, patterns and strategic implications of that shift.
 
 **Key questions explored:**
 - How has Australia's total population grown, and where?
@@ -19,7 +19,7 @@ Australia's demographic landscape underwent a fundamental transformation between
 
 ## 🗂️ Data Source
 
-The dataset is sourced from the **Australian Bureau of Statistics (ABS)**, containing estimated resident population figures broken down by country of birth, region, age group and gender. Data is recorded at five-year Census intervals — 1996, 2001, 2006, 2011 and 2016 — covering all Australian states and territories. To maintain analytical focus, the top 10 countries of birth (Australia and nine overseas nations spanning Asia, Europe and other regions) are selected for the country-level analysis in Dashboard 2 and Dashboard 3.
+The dataset is sourced from the **Australian Bureau of Statistics (ABS)**, containing estimated resident population figures broken down by country of birth, region, age group and gender. Data is recorded at five-year Census intervals from 1996, 2001, 2006, 2011 to 2016, covering all Australian states and territories. To maintain analytical focus, the top 10 countries of birth (Australia and nine overseas nations spanning Asia, Europe and other regions) are selected for the country-level analysis in Dashboard 2 and Dashboard 3.
 
 | Item | Detail |
 |---|---|
@@ -37,13 +37,13 @@ The dataset is sourced from the **Australian Bureau of Statistics (ABS)**, conta
 
 Three interactive Power BI dashboards are built to explore the data across different analytical lenses.
 
-**Dashboard 1 — Australia's Population Overview 1996–2016**
+**Dashboard 1: Australia's Population Overview 1996–2016**
 Population size and growth rate, gender distribution, age group breakdown (Youth / Working-age / Elderly), population pyramid, and geographic distribution by state and territory.
 
-**Dashboard 2 — Demographic Distribution: Top 10 Countries of Birth**
+**Dashboard 2: Demographic Distribution: Top 10 Countries of Birth**
 Population trends by country of birth, foreign-born share over time, age group and gender composition per origin country, and regional settlement patterns across Australian states.
 
-**Dashboard 3 — Shifting in Migrant Origin 1996–2016**
+**Dashboard 3: Shifting in Migrant Origin 1996–2016**
 Asia vs Europe migration comparison by total population, growth rate, working-age workforce contribution, age group profile and state-level distribution.
 
 ---
@@ -91,4 +91,4 @@ Prepared by: Gia Bao Hoang
 
 ---
 
-*Data sourced from the Australian Bureau of Statistics (ABS). All analysis is conducted for research and educational purposes.*
+*Data sourced from the Australian Bureau of Statistics (ABS). All analyses are conducted for research and educational purposes.*
