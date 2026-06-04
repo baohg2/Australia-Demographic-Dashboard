@@ -83,30 +83,30 @@ Asia vs Europe migration comparison by total population, growth rate, working-ag
 | European migrants: elderly share | 78% |
 | Top foreign-born state | New South Wales |
 
-- 🔄 **Migration origin flipped** — Asian-born residents (2.94M) overtook European-born (2.38M) as the dominant foreign-born cohort by 2016.
-- 💼 **Workforce dividend** — 62–71% of Asian migrants are working-age, actively offsetting the ageing of the Australian-born base.
-- 🏥 **Aged care pressure** — 78% of European-born migrants are elderly; combined with a rising domestic elderly share (12% → 15%), significant service demand is forecast.
-- 🏙️ **Eastern state concentration** — NSW and Victoria absorb the majority of migrants. Victoria overtook Queensland as the #2 state by population in 2011.
-- 📈 **Rising contenders** — India's share of foreign-born rose from 7% to 14%; China from 10% to 13%, challenging England's long-held #1 position.
-- ⚧️ **Gender divergence** — China and the Philippines consistently show female-skewed migration, reflecting labour demand in care, hospitality and education sectors.
+- 🔄 **Migration origin flipped**: Asian-born residents (2.94M) overtook European-born (2.38M) as the dominant foreign-born cohort by 2016.
+- 💼 **Workforce dividend**: 62–71% of Asian migrants are working-age, actively offsetting the ageing of the Australian-born base.
+- 🏥 **Aged care pressure**: 78% of European-born migrants are elderly; combined with a rising domestic elderly share (12% → 15%), significant service demand is forecast.
+- 🏙️ **Eastern state concentration**: NSW and Victoria absorb the majority of migrants. Victoria overtook Queensland as the #2 state by population in 2011.
+- 📈 **Rising contenders**: India's share of foreign-born rose from 7% to 14%; China from 10% to 13%, challenging England's long-held #1 position.
+- ⚧️ **Gender divergence**: China and the Philippines consistently show female-skewed migration, reflecting labour demand in care, hospitality and education sectors.
 
 ---
 
 ### 📌 Recommendations
 
-1. 🎓 **Expand skilled migration frameworks** — Build on Migration Strategy 2023 with practical skills recognition reforms, bridging programs and cultural mentorships to channel migrants into high-demand industries and prevent brain waste (CEDA, 2024; Department of Home Affairs, 2023).
+1. 🎓 **Expand skilled migration frameworks** - Build on Migration Strategy 2023 with practical skills recognition reforms, bridging programs and cultural mentorships to channel migrants into high-demand industries and prevent brain waste (CEDA, 2024; Department of Home Affairs, 2023).
 
-2. 🏨 **Scale aged care capacity** — Introduce an Essential Skills Visa to ease provider sponsorship costs and invest in technology-driven aging-in-place solutions to meet growing demand without overburdening the younger workforce (CEDA, 2025).
+2. 🏨 **Scale aged care capacity** - Introduce an Essential Skills Visa to ease provider sponsorship costs and invest in technology-driven aging-in-place solutions to meet growing demand without overburdening the younger workforce (CEDA, 2025).
 
-3. 🏗️ **Invest in east-coast urban infrastructure** — Partner with the private sector early to fund housing, transport and public services in NSW and Victoria, and develop satellite cities with high-speed links as long-term relief for affordability pressures (Infrastructure NSW, 2022; Pill et al., 2020).
+3. 🏗️ **Invest in east-coast urban infrastructure** - Partner with the private sector early to fund housing, transport and public services in NSW and Victoria, and develop satellite cities with high-speed links as long-term relief for affordability pressures (Infrastructure NSW, 2022; Pill et al., 2020).
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-- **Power BI Desktop** — dashboard design, DAX measures, interactive slicers
-- **Power Query** — data transformation and modelling
-- **Bing Maps** — geographic distribution visualisation
+- **Power BI Desktop**: dashboard design, DAX measures, interactive slicers
+- **Power Query**: data transformation and modelling
+- **Bing Maps**: geographic distribution visualisation
 
 ## Author
 Prepared by: Gia Bao Hoang
