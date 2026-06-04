@@ -31,6 +31,28 @@ The dataset is sourced from the **Australian Bureau of Statistics (ABS)**, conta
 
 ---
 
+## 🚀 Getting Started
+
+### Prerequisites
+- [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free) installed on Windows
+- A local copy of the dataset file `AUS_COB_ABS.csv`
+
+### Updating the Data Source Path
+
+The Power Query script uses a `FolderPath` parameter to locate the CSV file. Before refreshing data, update it to point to your own folder:
+
+1. Open `Australian_Demographic_Dashboard.pbix` in Power BI Desktop.
+2. Go to **Home → Transform data → Transform data** to open the Power Query Editor.
+3. In the left panel, select **Manage Parameters** (or click **Home → Manage Parameters**).
+4. Find the `FolderPath` parameter and update its value to the folder containing your CSV, ending with a backslash:
+
+```
+C:\Users\YourName\Documents\AUS_COB_ABS\
+```
+
+5. Click **OK**, then **Close & Apply**.
+
+---
 ## 📊 Methodology
 
 ### Dashboards
