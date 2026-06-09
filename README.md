@@ -76,7 +76,7 @@ Asia vs Europe migration comparison by total population, growth rate, working-ag
 |---|---|
 | Population growth (1996–2016) | 18M → 24M (+33%) |
 | Peak growth rate period | 2006–2011 (+9.24%) |
-| Foreign-born share in 2016 | 28.6% (up from 23.3% in 1996) |
+| Foreign-born in 2016 | 4.2M → 7M (+66%) |
 | Asian-born growth 1996–2016 | +248% (reached 2.94M) |
 | European-born growth 1996–2016 | +140% (reached 2.38M) |
 | Asian migrants: working-age share | 71% |
